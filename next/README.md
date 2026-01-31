@@ -89,34 +89,34 @@ To create a comprehensive digital ecosystem that unifies three powerful initiati
 ### Installation
 
 1. **Clone the repository**
-   ```bash
+   \`\`\`bash
    git clone https://github.com/MJ-AHMAD/Nexara.git
-   cd Next/Nexara
-   ```
+   cd Nexara
+   \`\`\`
 
 2. **Install dependencies**
-   ```bash
+   \`\`\`bash
    npm install
    # or
    yarn install
-   ```
+   \`\`\`
 
 3. **Set up environment variables**
-   ```bash
+   \`\`\`bash
    # Create .env.local file
    cp .env.example .env.local
    
    # Add your environment variables
    NEXT_PUBLIC_NOTES_PASSWORD=your_secure_password
    NEXT_PUBLIC_NOTES_PASSWORD_2=your_second_password
-   ```
+   \`\`\`
 
 4. **Run the development server**
-   ```bash
+   \`\`\`bash
    npm run dev
    # or
    yarn dev
-   ```
+   \`\`\`
 
 5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
@@ -223,12 +223,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - 📧 **Email**: [mjahmad2024@outlook.com](mailto:mjahmad2024@outlook.com)
 - 🐙 **GitHub**: [@MJ-AHMAD](https://github.com/MJ-AHMAD)
 - 💼 **LinkedIn**: [Connect with MJ AHMAD](https://linkedin.com/in/mj-ahmad)
-- 🐦 **Facebook**: [@Mmj.ahmad.768732](https://facebook.com/mj.ahmad.768732)
+- 🐦 **Twitter**: [@MJ_Ahmad](https://twitter.com/MJ_Ahmad)
 
 ### **Community**
-- 💬 **Discord**: [Join our community](https://discord.gg/)
-- 📱 **Telegram**: [NEXARA Updates](https://t.me/MJ-Ahmad)
-- 🌐 **Website**: [mj.dev](https://MJ-Ahmad.github.io/nexara)
+- 💬 **Discord**: [Join our community](https://discord.gg/nexara)
+- 📱 **Telegram**: [NEXARA Updates](https://t.me/nexara)
+- 🌐 **Website**: [nexara.dev](https://nexara.dev)
 
 ---
 
@@ -254,13 +254,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   <h3>🌟 Built with ❤️ by MJ AHMAD</h3>
   <p>Empowering the future through innovative digital solutions</p>
   
-  **[⭐ Star this repository](https://github.com/MJ-Ahmad/Nexara) | [🚀 Try NEXARA](https://MJ-Ahmad.github.io/nexara) | [💖 Support the project](https://github.com/sponsors/MJ-Ahmad)**
+  **[⭐ Star this repository](https://github.com/MJ-AHMAD/Nexara) | [🚀 Try NEXARA](https://nexara.dev) | [💖 Support the project](https://github.com/sponsors/MJ-AHMAD)**
 </div>
 
 ---
 
 <div align="center">
-  <sub>© 2026 NEXARA. All rights reserved. | With a Vision for Tomorrow's Leaders"
-By [MJ-AHMAD](https://github.com/MJ-Ahmad)</sub>
+  <sub>© 2024 NEXARA. All rights reserved. | Made with Next.js and TypeScript</sub>
 </div>
-

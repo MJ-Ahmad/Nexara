@@ -1,20 +1,5 @@
 # NEXARA
 
-<div align="center">
-  <img src="public/mj-ahmad-stylized.png" alt="Nexara Logo" width="200" />
-  <h1>🌟 NEXARA - Next-Generation Digital Platform</h1>
-  <p>A comprehensive digital ecosystem combining productivity tools, wellness tracking, project management, and innovative solutions - built with modern web technologies and designed for the future.</p>
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![GitHub Sponsors](https://img.shields.io/github/sponsors/MJ-AHMAD?style=flat&logo=github&logoColor=white&color=pink)](https://github.com/sponsors/MJ-AHMAD)
-  [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5f5f?style=flat&logo=ko-fi)](https://ko-fi.com/mjahmad)
-  [![GitHub issues](https://img.shields.io/github/issues/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/issues)
-  [![GitHub stars](https://img.shields.io/github/stars/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/stargazers)
-  [![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?logo=next.js)](https://nextjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
-</div>
-
 ---
 
 ## 🚀 Overview
@@ -89,34 +74,34 @@ To create a comprehensive digital ecosystem that unifies three powerful initiati
 ### Installation
 
 1. **Clone the repository**
-   ```bash
+   \`\`\`bash
    git clone https://github.com/MJ-AHMAD/Nexara.git
-   cd Next/Nexara
-   ```
+   cd Nexara
+   \`\`\`
 
 2. **Install dependencies**
-   ```bash
+   \`\`\`bash
    npm install
    # or
    yarn install
-   ```
+   \`\`\`
 
 3. **Set up environment variables**
-   ```bash
+   \`\`\`bash
    # Create .env.local file
    cp .env.example .env.local
    
    # Add your environment variables
    NEXT_PUBLIC_NOTES_PASSWORD=your_secure_password
    NEXT_PUBLIC_NOTES_PASSWORD_2=your_second_password
-   ```
+   \`\`\`
 
 4. **Run the development server**
-   ```bash
+   \`\`\`bash
    npm run dev
    # or
    yarn dev
-   ```
+   \`\`\`
 
 5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
@@ -223,12 +208,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - 📧 **Email**: [mjahmad2024@outlook.com](mailto:mjahmad2024@outlook.com)
 - 🐙 **GitHub**: [@MJ-AHMAD](https://github.com/MJ-AHMAD)
 - 💼 **LinkedIn**: [Connect with MJ AHMAD](https://linkedin.com/in/mj-ahmad)
-- 🐦 **Facebook**: [@Mmj.ahmad.768732](https://facebook.com/mj.ahmad.768732)
+- 🐦 **Twitter**: [@MJ_Ahmad](https://twitter.com/MJ_Ahmad)
 
 ### **Community**
-- 💬 **Discord**: [Join our community](https://discord.gg/)
-- 📱 **Telegram**: [NEXARA Updates](https://t.me/MJ-Ahmad)
-- 🌐 **Website**: [mj.dev](https://MJ-Ahmad.github.io/nexara)
+- 💬 **Discord**: [Join our community](https://discord.gg/nexara)
+- 📱 **Telegram**: [NEXARA Updates](https://t.me/nexara)
+- 🌐 **Website**: [nexara.dev](https://nexara.dev)
 
 ---
 
@@ -254,13 +239,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   <h3>🌟 Built with ❤️ by MJ AHMAD</h3>
   <p>Empowering the future through innovative digital solutions</p>
   
-  **[⭐ Star this repository](https://github.com/MJ-Ahmad/Nexara) | [🚀 Try NEXARA](https://MJ-Ahmad.github.io/nexara) | [💖 Support the project](https://github.com/sponsors/MJ-Ahmad)**
+  **[⭐ Star this repository](https://github.com/MJ-AHMAD/Nexara) | [🚀 Try NEXARA](https://nexara.dev) | [💖 Support the project](https://github.com/sponsors/MJ-AHMAD)**
 </div>
 
 ---
 
 <div align="center">
-  <sub>© 2026 NEXARA. All rights reserved. | With a Vision for Tomorrow's Leaders"
-By [MJ-AHMAD](https://github.com/MJ-Ahmad)</sub>
+  <sub>© 2024 NEXARA. All rights reserved. | Made with Next.js and TypeScript</sub>
 </div>
-

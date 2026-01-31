@@ -1,20 +1,5 @@
 # NEXARA
 
-<div align="center">
-  <img src="public/mj-ahmad-stylized.png" alt="Nexara Logo" width="200" />
-  <h1>🌟 NEXARA - Next-Generation Digital Platform</h1>
-  <p>A comprehensive digital ecosystem combining productivity tools, wellness tracking, project management, and innovative solutions - built with modern web technologies and designed for the future.</p>
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![GitHub Sponsors](https://img.shields.io/github/sponsors/MJ-AHMAD?style=flat&logo=github&logoColor=white&color=pink)](https://github.com/sponsors/MJ-AHMAD)
-  [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-ff5f5f?style=flat&logo=ko-fi)](https://ko-fi.com/mjahmad)
-  [![GitHub issues](https://img.shields.io/github/issues/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/issues)
-  [![GitHub stars](https://img.shields.io/github/stars/MJ-AHMAD/Nexara)](https://github.com/MJ-AHMAD/Nexara/stargazers)
-  [![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?logo=next.js)](https://nextjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
-</div>
-
 ---
 
 ## 🚀 Overview
@@ -75,7 +60,7 @@ To create a comprehensive digital ecosystem that unifies three powerful initiati
 - **Package Manager**: npm/yarn
 - **Code Quality**: ESLint + Prettier
 - **Version Control**: Git with GitHub
-- **Deployment**: Vercel-ready configuration
+- **Deployment**: MJ-Ahmad configuration
 
 ---
 
@@ -185,7 +170,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct]
 If you find NEXARA helpful, please consider supporting its development:
 
 ### **Financial Support**
-- 💝 [GitHub Sponsors](https://github.com/sponsors/MJ-AHMAD) - Monthly sponsorship
+- 💝 [GitHub Sponsors](https://github.com/sponsors/MJ-Ahmad) - Monthly sponsorship
 - ☕ [Ko-fi](https://ko-fi.com/mjahmad) - One-time donations
 - ⭐ **Star this repository** - It helps with visibility!
 
@@ -217,12 +202,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📬 Contact & Connect
 
 ### **Creator**
-**MJ AHMAD** - Visionary Developer & Digital Innovator
+**MJ Ahmad** - Visionary Developer & Digital Innovator
 
 ### **Get in Touch**
 - 📧 **Email**: [mjahmad2024@outlook.com](mailto:mjahmad2024@outlook.com)
-- 🐙 **GitHub**: [@MJ-AHMAD](https://github.com/MJ-AHMAD)
-- 💼 **LinkedIn**: [Connect with MJ AHMAD](https://linkedin.com/in/mj-ahmad)
+- 🐙 **GitHub**: [@MJ-Ahmad](https://github.com/MJ-Ahmad)
+- 💼 **LinkedIn**: [Connect with MJ Ahmad](https://linkedin.com/in/jafor-ahmad)
 - 🐦 **Facebook**: [@Mmj.ahmad.768732](https://facebook.com/mj.ahmad.768732)
 
 ### **Community**
@@ -263,4 +248,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   <sub>© 2026 NEXARA. All rights reserved. | With a Vision for Tomorrow's Leaders"
 By [MJ-AHMAD](https://github.com/MJ-Ahmad)</sub>
 </div>
-
